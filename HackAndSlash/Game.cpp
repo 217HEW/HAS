@@ -1,4 +1,4 @@
-//コメント手直し
+//コメント
 #include "Game.h"
 #include "SampleScene.h"
 
