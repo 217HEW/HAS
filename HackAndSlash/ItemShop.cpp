@@ -50,7 +50,7 @@ ItemShop::~ItemShop()
 }
 void ItemShop::Update()
 {
-	printf("Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹Çπ\n");
+	printf("Ç¢ÇÁÇ¡ÇµÇ·Ç¢Ç‹ÇπÅI\n");
 	//printf("ñúâÆÇ…ÇÊÇ§Ç±ÇªÅI\n");
 	//while (true)
 	//{
