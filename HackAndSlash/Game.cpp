@@ -1,4 +1,4 @@
-//ブランチテスト
+//コメント手直し
 #include "Game.h"
 #include "SampleScene.h"
 
